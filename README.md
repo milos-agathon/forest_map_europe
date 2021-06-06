@@ -1,6 +1,6 @@
 # European map of average weighted values (in %) for the forest fractional cover
 
-This repo demonstrates how to easily overlay community polygons on forest cover data and make a beautiful map using ``R`` and ``ggplot2``
+This repo demonstrates how to easily overlay community polygons on forest cover data and make a beautiful map using ``R`` and ``ggplot2``.
 
 The R code helps you overlay community spatial polygons over forest cover satellite imagery to compute and map the average percentage of the land area under forest using no more than 200 lines of code. 
 
